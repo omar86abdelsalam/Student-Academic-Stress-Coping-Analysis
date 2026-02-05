@@ -1,0 +1,140 @@
+,Timestamp,Your Academic Stage,Peer pressure,Academic pressure home,Study Environment,Coping_Mechanism,Lifestyle_Habits,Academic Competition,Academic_Stress_Level,year,day,Month_Name,month,day_name
+0,2025-07-24 22:05:39+00:00,undergraduate,High,Extreme Pressure,Noisy,Problem-Solving,No,Moderate,Overwhelming,2025,24,July,7,Thursday
+1,2025-07-24 22:05:52+00:00,undergraduate,Moderate,Strong Pressure,Peaceful,Problem-Solving,No,Moderate,Moderate,2025,24,July,7,Thursday
+2,2025-07-24 22:06:39+00:00,undergraduate,Very Low,No Pressure,Peaceful,Social Support,No,Low,Severe,2025,24,July,7,Thursday
+3,2025-07-24 22:06:45+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Problem-Solving,No,High,Moderate,2025,24,July,7,Thursday
+4,2025-07-24 22:08:06+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,High,Overwhelming,2025,24,July,7,Thursday
+5,2025-07-24 22:08:13+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+6,2025-07-24 22:09:21+00:00,undergraduate,Very High,Extreme Pressure,disrupted,Emotional Release,No,High,Severe,2025,24,July,7,Thursday
+7,2025-07-24 22:10:06+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Social Support,No,Moderate,Moderate,2025,24,July,7,Thursday
+8,2025-07-24 22:11:01+00:00,undergraduate,Low,Slight Pressure,Peaceful,Problem-Solving,No,Low,Mild,2025,24,July,7,Thursday
+9,2025-07-24 22:11:19+00:00,undergraduate,Low,Slight Pressure,Peaceful,Problem-Solving,No,High,Mild,2025,24,July,7,Thursday
+10,2025-07-24 22:12:12+00:00,undergraduate,Moderate,Slight Pressure,disrupted,Emotional Release,No,Moderate,Overwhelming,2025,24,July,7,Thursday
+11,2025-07-24 22:12:24+00:00,undergraduate,High,Extreme Pressure,Peaceful,Problem-Solving,No,Moderate,Moderate,2025,24,July,7,Thursday
+12,2025-07-24 22:12:27+00:00,undergraduate,Low,Moderate Pressure,Noisy,Emotional Release,No,Low,Mild,2025,24,July,7,Thursday
+13,2025-07-24 22:12:48+00:00,undergraduate,Low,Moderate Pressure,disrupted,Problem-Solving,No,High,Mild,2025,24,July,7,Thursday
+14,2025-07-24 22:14:16+00:00,undergraduate,Moderate,Strong Pressure,disrupted,Social Support,Decline,Moderate,Severe,2025,24,July,7,Thursday
+15,2025-07-24 22:15:06+00:00,undergraduate,Very High,Extreme Pressure,Noisy,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+16,2025-07-24 22:15:39+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,Fierce,Overwhelming,2025,24,July,7,Thursday
+17,2025-07-24 22:16:10+00:00,undergraduate,Moderate,Extreme Pressure,disrupted,Problem-Solving,No,Fierce,Severe,2025,24,July,7,Thursday
+18,2025-07-24 22:16:53+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Emotional Release,No,High,Moderate,2025,24,July,7,Thursday
+19,2025-07-24 22:17:46+00:00,undergraduate,Moderate,Strong Pressure,Peaceful,Social Support,No,High,Moderate,2025,24,July,7,Thursday
+20,2025-07-24 22:18:02+00:00,undergraduate,High,Moderate Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+21,2025-07-24 22:18:44+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,High,Moderate,2025,24,July,7,Thursday
+22,2025-07-24 22:18:55+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,High,Moderate,2025,24,July,7,Thursday
+23,2025-07-24 22:18:58+00:00,undergraduate,Very High,No Pressure,disrupted,Problem-Solving,No,Fierce,Moderate,2025,24,July,7,Thursday
+24,2025-07-24 22:19:06+00:00,undergraduate,High,Extreme Pressure,disrupted,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+25,2025-07-24 22:19:22+00:00,undergraduate,High,Moderate Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+26,2025-07-24 22:19:25+00:00,undergraduate,High,Extreme Pressure,disrupted,Problem-Solving,Yes,High,Overwhelming,2025,24,July,7,Thursday
+27,2025-07-24 22:19:33+00:00,high school,Moderate,Strong Pressure,disrupted,Problem-Solving,No,Moderate,Severe,2025,24,July,7,Thursday
+28,2025-07-24 22:19:51+00:00,undergraduate,Very High,No Pressure,disrupted,Social Support,No,High,Overwhelming,2025,24,July,7,Thursday
+29,2025-07-24 22:20:28+00:00,undergraduate,High,Moderate Pressure,Peaceful,Problem-Solving,No,Fierce,Severe,2025,24,July,7,Thursday
+30,2025-07-24 22:21:04+00:00,undergraduate,Very High,Extreme Pressure,disrupted,Emotional Release,Yes,Fierce,Overwhelming,2025,24,July,7,Thursday
+31,2025-07-24 22:23:15+00:00,undergraduate,Moderate,No Pressure,disrupted,Emotional Release,No,High,Severe,2025,24,July,7,Thursday
+32,2025-07-24 22:24:13+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Emotional Release,No,High,Moderate,2025,24,July,7,Thursday
+33,2025-07-24 22:24:53+00:00,undergraduate,Very Low,No Pressure,Peaceful,Problem-Solving,Decline,Negligible,Minimal,2025,24,July,7,Thursday
+34,2025-07-24 22:25:17+00:00,undergraduate,Very Low,No Pressure,Peaceful,Social Support,Decline,High,Moderate,2025,24,July,7,Thursday
+35,2025-07-24 22:25:27+00:00,undergraduate,Moderate,Strong Pressure,Noisy,Problem-Solving,No,Fierce,Severe,2025,24,July,7,Thursday
+36,2025-07-24 22:25:41+00:00,undergraduate,High,Extreme Pressure,disrupted,Emotional Release,Yes,Low,Moderate,2025,24,July,7,Thursday
+37,2025-07-24 22:28:58+00:00,undergraduate,Very Low,Strong Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+38,2025-07-24 22:29:26+00:00,undergraduate,Moderate,Strong Pressure,Peaceful,Problem-Solving,No,Moderate,Severe,2025,24,July,7,Thursday
+39,2025-07-24 22:30:29+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Social Support,No,Moderate,Severe,2025,24,July,7,Thursday
+40,2025-07-24 22:32:22+00:00,undergraduate,Moderate,Strong Pressure,disrupted,Problem-Solving,No,Fierce,Overwhelming,2025,24,July,7,Thursday
+41,2025-07-24 22:32:36+00:00,post-graduate,Moderate,Extreme Pressure,Peaceful,Problem-Solving,No,Moderate,Moderate,2025,24,July,7,Thursday
+42,2025-07-24 22:32:37+00:00,undergraduate,Moderate,Extreme Pressure,Peaceful,Problem-Solving,No,High,Overwhelming,2025,24,July,7,Thursday
+43,2025-07-24 22:33:48+00:00,undergraduate,Very High,Strong Pressure,disrupted,Emotional Release,No,Fierce,Overwhelming,2025,24,July,7,Thursday
+44,2025-07-24 22:34:34+00:00,undergraduate,High,Slight Pressure,Noisy,Problem-Solving,No,Low,Mild,2025,24,July,7,Thursday
+45,2025-07-24 22:34:41+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Problem-Solving,No,High,Moderate,2025,24,July,7,Thursday
+46,2025-07-24 22:34:53+00:00,undergraduate,Very High,Extreme Pressure,Noisy,Emotional Release,Decline,High,Overwhelming,2025,24,July,7,Thursday
+47,2025-07-24 22:38:47+00:00,undergraduate,Low,Strong Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+48,2025-07-24 22:39:36+00:00,undergraduate,Moderate,Strong Pressure,Noisy,Emotional Release,Yes,High,Overwhelming,2025,24,July,7,Thursday
+49,2025-07-24 22:41:41+00:00,undergraduate,Low,Moderate Pressure,disrupted,Social Support,No,Low,Moderate,2025,24,July,7,Thursday
+50,2025-07-24 22:42:11+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,High,Moderate,2025,24,July,7,Thursday
+51,2025-07-24 22:42:25+00:00,undergraduate,High,Strong Pressure,Noisy,Problem-Solving,No,Fierce,Severe,2025,24,July,7,Thursday
+52,2025-07-24 22:42:48+00:00,undergraduate,High,Extreme Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+53,2025-07-24 22:44:07+00:00,undergraduate,Moderate,Moderate Pressure,disrupted,Emotional Release,Yes,Moderate,Moderate,2025,24,July,7,Thursday
+54,2025-07-24 22:44:50+00:00,undergraduate,Moderate,No Pressure,Noisy,Problem-Solving,Yes,High,Severe,2025,24,July,7,Thursday
+55,2025-07-24 23:01:02+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Problem-Solving,No,Fierce,Severe,2025,24,July,7,Thursday
+56,2025-07-24 23:02:49+00:00,post-graduate,High,Strong Pressure,disrupted,Problem-Solving,Decline,High,Severe,2025,24,July,7,Thursday
+57,2025-07-24 23:03:10+00:00,undergraduate,Moderate,No Pressure,Noisy,Problem-Solving,No,High,Moderate,2025,24,July,7,Thursday
+58,2025-07-24 23:04:01+00:00,undergraduate,Low,Moderate Pressure,disrupted,Problem-Solving,No,Moderate,Overwhelming,2025,24,July,7,Thursday
+59,2025-07-24 23:15:48+00:00,undergraduate,Moderate,No Pressure,Noisy,Problem-Solving,No,Fierce,Severe,2025,24,July,7,Thursday
+60,2025-07-24 23:22:17+00:00,undergraduate,Low,No Pressure,Peaceful,Emotional Release,No,Moderate,Mild,2025,24,July,7,Thursday
+61,2025-07-24 23:31:01+00:00,undergraduate,Low,Moderate Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,24,July,7,Thursday
+62,2025-07-24 23:32:26+00:00,undergraduate,High,Strong Pressure,disrupted,Emotional Release,No,High,Severe,2025,24,July,7,Thursday
+63,2025-07-24 23:36:22+00:00,undergraduate,Moderate,Moderate Pressure,disrupted,Problem-Solving,No,Moderate,Moderate,2025,24,July,7,Thursday
+64,2025-07-24 23:44:35+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Emotional Release,No,Low,Mild,2025,24,July,7,Thursday
+65,2025-07-25 00:10:10+00:00,undergraduate,High,Extreme Pressure,disrupted,Emotional Release,No,Low,Overwhelming,2025,25,July,7,Friday
+66,2025-07-25 00:13:46+00:00,undergraduate,High,Moderate Pressure,Peaceful,Problem-Solving,No,High,Overwhelming,2025,25,July,7,Friday
+67,2025-07-25 00:21:30+00:00,undergraduate,Moderate,Extreme Pressure,disrupted,Emotional Release,No,Moderate,Severe,2025,25,July,7,Friday
+68,2025-07-25 00:21:38+00:00,undergraduate,High,Slight Pressure,disrupted,Problem-Solving,No,Negligible,Minimal,2025,25,July,7,Friday
+69,2025-07-25 08:13:01+00:00,undergraduate,Moderate,Moderate Pressure,disrupted,Problem-Solving,No,Moderate,Severe,2025,25,July,7,Friday
+70,2025-07-25 08:42:22+00:00,undergraduate,High,Moderate Pressure,disrupted,Problem-Solving,No,High,Severe,2025,25,July,7,Friday
+71,2025-07-25 10:30:12+00:00,undergraduate,Moderate,Moderate Pressure,disrupted,Problem-Solving,No,High,Severe,2025,25,July,7,Friday
+72,2025-07-25 10:37:39+00:00,undergraduate,Very Low,No Pressure,Noisy,Problem-Solving,No,Negligible,Minimal,2025,25,July,7,Friday
+73,2025-07-25 10:43:24+00:00,undergraduate,Moderate,Moderate Pressure,disrupted,Problem-Solving,No,High,Severe,2025,25,July,7,Friday
+74,2025-07-25 11:00:10+00:00,undergraduate,Very High,Extreme Pressure,Noisy,Emotional Release,No,Moderate,Overwhelming,2025,25,July,7,Friday
+75,2025-07-25 11:06:32+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,Moderate,Moderate,2025,25,July,7,Friday
+76,2025-07-25 11:06:40+00:00,undergraduate,Low,Moderate Pressure,Noisy,Social Support,No,Low,Moderate,2025,25,July,7,Friday
+77,2025-07-25 11:47:24+00:00,undergraduate,Moderate,Strong Pressure,Peaceful,Problem-Solving,No,Moderate,Moderate,2025,25,July,7,Friday
+78,2025-07-25 13:17:44+00:00,post-graduate,Moderate,Slight Pressure,Peaceful,Problem-Solving,No,Fierce,Severe,2025,25,July,7,Friday
+79,2025-07-25 13:18:47+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,Decline,Moderate,Overwhelming,2025,25,July,7,Friday
+80,2025-07-25 13:38:10+00:00,undergraduate,Low,Slight Pressure,Peaceful,Problem-Solving,No,Negligible,Minimal,2025,25,July,7,Friday
+81,2025-07-25 16:00:32+00:00,undergraduate,Very High,Moderate Pressure,Peaceful,Emotional Release,No,High,Overwhelming,2025,25,July,7,Friday
+82,2025-07-25 16:04:38+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Problem-Solving,No,Moderate,Severe,2025,25,July,7,Friday
+83,2025-07-25 16:31:45+00:00,post-graduate,Very Low,Extreme Pressure,Peaceful,Problem-Solving,No,Fierce,Moderate,2025,25,July,7,Friday
+84,2025-07-25 17:08:00+00:00,undergraduate,Low,Slight Pressure,disrupted,Social Support,No,Fierce,Severe,2025,25,July,7,Friday
+85,2025-07-25 17:51:17+00:00,post-graduate,High,Strong Pressure,Noisy,Problem-Solving,No,High,Moderate,2025,25,July,7,Friday
+86,2025-07-25 18:18:38+00:00,undergraduate,Low,Moderate Pressure,Peaceful,Social Support,No,Moderate,Moderate,2025,25,July,7,Friday
+87,2025-07-25 18:27:24+00:00,undergraduate,Low,Moderate Pressure,Peaceful,Problem-Solving,Decline,Moderate,Moderate,2025,25,July,7,Friday
+88,2025-07-25 19:34:59+00:00,undergraduate,Low,Extreme Pressure,Peaceful,Social Support,No,High,Overwhelming,2025,25,July,7,Friday
+89,2025-07-25 20:37:52+00:00,post-graduate,Low,Slight Pressure,Noisy,Problem-Solving,No,High,Severe,2025,25,July,7,Friday
+90,2025-07-25 23:34:18+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,Yes,High,Severe,2025,25,July,7,Friday
+91,2025-07-25 23:39:15+00:00,undergraduate,Low,Slight Pressure,Peaceful,Problem-Solving,No,High,Moderate,2025,25,July,7,Friday
+92,2025-07-26 07:25:43+00:00,high school,High,Extreme Pressure,Peaceful,Problem-Solving,No,High,Overwhelming,2025,26,July,7,Saturday
+93,2025-07-26 07:33:35+00:00,high school,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,26,July,7,Saturday
+94,2025-07-26 07:34:28+00:00,high school,High,Extreme Pressure,Noisy,Emotional Release,No,Fierce,Overwhelming,2025,26,July,7,Saturday
+95,2025-07-26 07:50:38+00:00,high school,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,Moderate,Severe,2025,26,July,7,Saturday
+96,2025-07-26 08:13:18+00:00,high school,Low,Moderate Pressure,Noisy,Emotional Release,No,Moderate,Severe,2025,26,July,7,Saturday
+97,2025-07-26 08:25:17+00:00,high school,Very Low,Slight Pressure,Peaceful,Problem-Solving,No,Fierce,Moderate,2025,26,July,7,Saturday
+98,2025-07-26 08:25:18+00:00,high school,High,Strong Pressure,disrupted,Emotional Release,No,Low,Overwhelming,2025,26,July,7,Saturday
+99,2025-07-26 08:27:10+00:00,high school,High,Moderate Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,26,July,7,Saturday
+100,2025-07-26 08:40:35+00:00,high school,High,Extreme Pressure,Noisy,Emotional Release,No,Moderate,Severe,2025,26,July,7,Saturday
+101,2025-07-26 08:57:40+00:00,high school,Very Low,Extreme Pressure,Noisy,Problem-Solving,No,Fierce,Overwhelming,2025,26,July,7,Saturday
+102,2025-07-26 09:28:08+00:00,high school,Very High,Extreme Pressure,Peaceful,Emotional Release,No,Moderate,Overwhelming,2025,26,July,7,Saturday
+103,2025-07-26 09:36:09+00:00,high school,Very Low,Moderate Pressure,Peaceful,Social Support,No,Moderate,Minimal,2025,26,July,7,Saturday
+104,2025-07-26 09:47:04+00:00,high school,Very High,Moderate Pressure,Noisy,Emotional Release,No,High,Overwhelming,2025,26,July,7,Saturday
+105,2025-07-26 09:56:32+00:00,high school,Moderate,Moderate Pressure,Noisy,Problem-Solving,No,High,Moderate,2025,26,July,7,Saturday
+106,2025-07-26 10:01:33+00:00,high school,High,Strong Pressure,disrupted,Emotional Release,No,High,Overwhelming,2025,26,July,7,Saturday
+107,2025-07-26 10:04:32+00:00,high school,Low,Moderate Pressure,Noisy,Social Support,No,Moderate,Severe,2025,26,July,7,Saturday
+108,2025-07-26 10:38:24+00:00,high school,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,Moderate,Severe,2025,26,July,7,Saturday
+109,2025-07-26 10:39:37+00:00,high school,Low,Strong Pressure,Peaceful,Emotional Release,No,Moderate,Moderate,2025,26,July,7,Saturday
+110,2025-07-26 11:36:30+00:00,high school,Low,Strong Pressure,Noisy,Problem-Solving,No,High,Moderate,2025,26,July,7,Saturday
+111,2025-07-26 13:39:21+00:00,undergraduate,Very Low,No Pressure,Noisy,Problem-Solving,No,Moderate,Moderate,2025,26,July,7,Saturday
+112,2025-07-26 14:21:53+00:00,high school,Very Low,Moderate Pressure,Noisy,Problem-Solving,No,Fierce,Moderate,2025,26,July,7,Saturday
+113,2025-07-26 14:23:45+00:00,high school,Moderate,Strong Pressure,Noisy,Emotional Release,No,Moderate,Moderate,2025,26,July,7,Saturday
+114,2025-07-26 18:45:13+00:00,high school,Very Low,No Pressure,Peaceful,Emotional Release,No,Negligible,Minimal,2025,26,July,7,Saturday
+115,2025-07-26 21:37:46+00:00,high school,Moderate,Strong Pressure,Peaceful,Social Support,No,Low,Mild,2025,26,July,7,Saturday
+116,2025-07-26 22:11:02+00:00,high school,Moderate,No Pressure,Noisy,Problem-Solving,No,High,Severe,2025,26,July,7,Saturday
+117,2025-07-27 13:45:00+00:00,undergraduate,Low,Moderate Pressure,Noisy,Problem-Solving,No,Moderate,Overwhelming,2025,27,July,7,Sunday
+118,2025-07-27 22:56:54+00:00,high school,Low,Slight Pressure,Peaceful,Problem-Solving,No,High,Severe,2025,27,July,7,Sunday
+119,2025-07-30 06:43:55+00:00,high school,High,Extreme Pressure,Peaceful,Problem-Solving,No,Moderate,Overwhelming,2025,30,July,7,Wednesday
+120,2025-07-30 16:02:16+00:00,undergraduate,High,Strong Pressure,disrupted,Problem-Solving,No,High,Severe,2025,30,July,7,Wednesday
+121,2025-08-11 12:15:00+00:00,post-graduate,Moderate,Strong Pressure,Peaceful,Social Support,No,Negligible,Severe,2025,11,August,8,Monday
+122,2025-08-11 18:07:26+00:00,undergraduate,Very High,No Pressure,Noisy,Problem-Solving,Yes,Fierce,Overwhelming,2025,11,August,8,Monday
+123,2025-08-11 19:29:07+00:00,post-graduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,Moderate,Moderate,2025,11,August,8,Monday
+124,2025-08-12 02:28:42+00:00,post-graduate,Moderate,Strong Pressure,Peaceful,Social Support,No,Low,Severe,2025,12,August,8,Tuesday
+125,2025-08-12 08:11:48+00:00,post-graduate,Moderate,No Pressure,disrupted,Social Support,No,High,Overwhelming,2025,12,August,8,Tuesday
+126,2025-08-12 08:49:45+00:00,high school,High,Extreme Pressure,Noisy,Emotional Release,No,Moderate,Overwhelming,2025,12,August,8,Tuesday
+127,2025-08-12 08:56:07+00:00,undergraduate,Moderate,Extreme Pressure,Peaceful,Problem-Solving,Yes,High,Overwhelming,2025,12,August,8,Tuesday
+128,2025-08-12 10:03:58+00:00,undergraduate,Moderate,Strong Pressure,disrupted,Social Support,No,Low,Severe,2025,12,August,8,Tuesday
+130,2025-08-12 13:16:50+00:00,undergraduate,Low,Slight Pressure,Noisy,Problem-Solving,No,High,Severe,2025,12,August,8,Tuesday
+131,2025-08-12 15:01:20+00:00,high school,High,Strong Pressure,Peaceful,Problem-Solving,No,Moderate,Severe,2025,12,August,8,Tuesday
+132,2025-08-13 21:45:58+00:00,undergraduate,Very Low,No Pressure,Peaceful,Problem-Solving,No,Low,Mild,2025,13,August,8,Wednesday
+133,2025-08-14 06:10:01+00:00,post-graduate,High,Moderate Pressure,disrupted,Emotional Release,Yes,Low,Severe,2025,14,August,8,Thursday
+134,2025-08-14 21:06:15+00:00,undergraduate,Very High,Moderate Pressure,disrupted,Problem-Solving,No,Low,Severe,2025,14,August,8,Thursday
+135,2025-08-17 13:02:04+00:00,undergraduate,Moderate,Slight Pressure,Peaceful,Problem-Solving,No,Moderate,Severe,2025,17,August,8,Sunday
+136,2025-08-18 14:36:00+00:00,undergraduate,High,Slight Pressure,disrupted,Problem-Solving,No,Moderate,Moderate,2025,18,August,8,Monday
+137,2025-08-18 17:13:52+00:00,undergraduate,Moderate,Moderate Pressure,Peaceful,Problem-Solving,No,Low,Severe,2025,18,August,8,Monday
+138,2025-08-18 19:08:52+00:00,undergraduate,High,Extreme Pressure,disrupted,Social Support,No,Fierce,Overwhelming,2025,18,August,8,Monday
+139,2025-08-18 22:40:13+00:00,undergraduate,High,Slight Pressure,Peaceful,Social Support,No,High,Severe,2025,18,August,8,Monday
